@@ -2,7 +2,7 @@ body {
   font-family: 'Montserrat', sans-serif;
 }
 
-/* Global сброс стилів */
+/* Global сброс styles */
 h1,
 h2,
 h3,
@@ -23,7 +23,7 @@ img {
   display: block;
   max-width: 100%;
 }
-/* End global style */
+/* End global styles */
 
 .container {
   /* background-color: red; */
